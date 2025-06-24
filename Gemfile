@@ -65,4 +65,4 @@ group :development do
 end
 
 gem 'graphql', '~> 2.0', '>= 2.0.15'
-gem "graphiql-rails", group: :development
+gem "graphiql-rails", ">= 1.10.0", group: :development
